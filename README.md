@@ -23,4 +23,4 @@ maven.minecraftforge.net
 mediafilez.forgecdn.net
 curseforge.com
 release-assets.githubusercontent.com
-maven.blamejared.com```
+maven.blamejared.com
