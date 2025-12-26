@@ -1,2 +1,26 @@
 # my-zapret-ips
-Course forge / CarX / Minecraft / Github / Maven / Gradle / Sound cloud / e.t.c
+soundcloud.com
+a-v2.sndcdn.com
+style.sndcdn.com
+assets.web.soundcloud.cloud
+i1.sndcdn.com
+al.sndcdn.com
+va.sndcdn.com
+wave.sndcdn.com
+playback.media-streaming.soundcloud.cloud
+cf-hls-media.sndcdn.com
+license.media-streaming.soundcloud.cloud
+mega.nz
+mega.co.nz
+mcd270n314.karere.mega.nz
+mcd270n310.karere.mega.nz
+mcd270n313.karere.mega.nz
+xmpp270n003.karere.mega.nz
+trn270n001.karere.mega.nz
+trn270n002.karere.mega.nz
+edge.forgecdn.net
+maven.minecraftforge.net
+mediafilez.forgecdn.net
+curseforge.com
+release-assets.githubusercontent.com
+maven.blamejared.com
