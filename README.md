@@ -1,5 +1,5 @@
 # my-zapret-ips
-soundcloud.com
+```soundcloud.com
 a-v2.sndcdn.com
 style.sndcdn.com
 assets.web.soundcloud.cloud
@@ -23,4 +23,4 @@ maven.minecraftforge.net
 mediafilez.forgecdn.net
 curseforge.com
 release-assets.githubusercontent.com
-maven.blamejared.com
+maven.blamejared.com```
