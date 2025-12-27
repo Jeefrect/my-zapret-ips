@@ -24,3 +24,5 @@ mediafilez.forgecdn.net
 curseforge.com
 release-assets.githubusercontent.com
 maven.blamejared.com
+modrinth.com
+spigotmc.org
