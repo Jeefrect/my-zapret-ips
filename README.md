@@ -26,3 +26,7 @@ release-assets.githubusercontent.com
 maven.blamejared.com
 modrinth.com
 spigotmc.org
+mcstacker.net
+repo.extendedclip.com
+proxy-rest3.carx-online.com
+rtmp-prod-master-ireland.carx-online.com
